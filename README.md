@@ -27,8 +27,14 @@ I have two public repositories, they contain:
   <!-- icons section start  -->
   <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
 
+  <!--
   <a href="https://www.linkedin.com/in/juanantoniot/">
   <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
+  </a>
+  -->
+
+  <a href="https://www.linkedin.com/in/juanantoniot/">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="70"/>
   </a>
 
   </div>
