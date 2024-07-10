@@ -28,11 +28,12 @@ I have three public repositories, they contain:
 </div>
 <!-- <img src="" title="" **alt="" width="80" height="80"/> -->
 
-
 <!-- folded section start ...................................................................... -->
-<details>
+<!-- <details> -->
 
-  <summary><h4> For potential employers: </h4></summary>
+  <!-- <summary><h4> For potential employers: </h4></summary> -->
+
+  **For potential employers**:
   
   The content I've made public is indeed less than what you might find on another prospect's
   profile, but I will not upload anything and everything just to impress you. I could very easily
@@ -61,7 +62,7 @@ I have three public repositories, they contain:
 
   </div>
 
-</details>
+<!-- </details> -->
 <!-- folded section end ........................................................................ -->
 
 
