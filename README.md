@@ -28,42 +28,29 @@ I have three public repositories, they contain:
 </div>
 <!-- <img src="" title="" **alt="" width="80" height="80"/> -->
 
-<!-- folded section start ...................................................................... -->
-<!-- <details> -->
-
-  <!-- <summary><h4> For potential employers: </h4></summary> -->
-
-  **For potential employers**:
+### For potential employers
   
-  The content I've made public is indeed less than what you might find on another prospect's
-  profile, but I will not upload anything and everything just to impress you. I could very easily
-  upload every single module from the many online courses I've taken and show hundreds of files of
-  Python and R code. Many people do that sort of thing and, while in a handful of cases that has
-  great public value, it's usually only good for the profile owner to "check the box" for potential
-  employers. (And those repos are often used by other course takers to cheat at tests, which
-  devalues all of us.) 
+The content I've made public is indeed less than what you might find on another prospect's profile,
+but I will not upload anything and everything just to impress you. I could very easily upload every
+single module from the many online courses I've taken and show hundreds of files of Python and R
+code. Many people do that sort of thing and, while in a handful of cases that has great public
+value, it's usually only good for the profile owner to "check the box" for potential employers.
+(And those repos are often used by other course takers to cheat at tests, which devalues all of
+us.) 
   
-  I'm not the type to just "create content" and go through the motions ...  I  invite you to
-  actually look at my files and see their value as notes/summaries and, sometimes, critical
-  interpretations of the theory.
+I'm not the type to just "create content" and go through the motions ...  I  invite you to actually
+look at my files and see their value as notes/summaries and, sometimes, critical interpretations of
+the theory.
 
-  <!-- icons section start  -->
-  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
+<!-- icons section start  -->
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
 
-  <!--
-  <a href="https://www.linkedin.com/in/juanantoniot/">
-  <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
-  </a>
-  -->
-
+  <!-- linkedin icon -->
   <a href="https://www.linkedin.com/in/juanantoniot/">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="70"/>
   </a>
 
-  </div>
-
-<!-- </details> -->
-<!-- folded section end ........................................................................ -->
+</div>
 
 
 <!--
