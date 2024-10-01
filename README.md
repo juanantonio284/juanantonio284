@@ -1,11 +1,13 @@
 # About me
 
-"I just thought you'd like to know I can read. You got anything needs readin' I can do it ... "
+"I just thought you'd like to know I can read. You got anything needs readin' I can do it ... " —
+ Dill
 
-I have four public repositories, they contain:
+My repositories contain:
 
 * notes on Computer Science and Python
 * notes on technical writing and the English language
+* simple R code for common Data Science tasks
 * functions I've created in R
 * notes on BASH usage
 
@@ -30,9 +32,15 @@ I have four public repositories, they contain:
 
 ### For potential employers
 
-The content I've made public is, indeed, less than what you might find on another prospect's profile, but I will not upload anything and everything just to impress you. I could very easily upload every single module from the many online courses I've taken and show hundreds of files with Python and R code. Many people do that sort of thing and, while in a handful of cases that has public value, it's usually only good for the profile owner to "check the box" for potential employers—and those repos are often used by other course takers to cheat at tests, which devalues all of us.
+The content I've made public is, indeed, less than what you might find on another prospect's
+profile, but I will not upload anything and everything just to impress you. I'm not the type to
+just "create content" and go through the motions. I could very easily upload every single module
+from the many online courses I've taken and show hundreds of files with Python and R code. Many
+people do that sort of thing and, while in a handful of cases that has great public value, it's
+usually only good for the profile owner to "check the box" in job applications—and those repos are
+often used by other course takers to cheat at tests, which devalues all of us.
 
-I'm not the type to just "create content" and go through the motions ... I invite you to actually look at my files and see their value as notes/summaries and critical interpretations of the theory.
+I invite you to actually look at my files and see their value as notes/summaries and critical interpretations of the theory.
   
 <!-- icons section start  -->
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
