@@ -9,7 +9,7 @@ My repositories contain:
 * notes on technical writing and the English language
 * simple R code for common Data Science tasks
 * functions I've created in R
-* notes on BASH usage
+* notes on BASH usage (including a little bit on linux administration and configuring commonly used tools)
 
 ## My interests
 
