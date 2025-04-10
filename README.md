@@ -6,10 +6,11 @@
 My repositories contain:
 
 * notes on Computer Science and Python
-* notes on technical writing and the English language
+* notes on Technical Writing and the English language
 * simple R code for common Data Science tasks
 * functions I've created in R
-* notes on BASH usage (including a little bit on linux administration and configuring commonly used tools)
+* notes on BASH usage (including a little bit on Linux administration and configuration of commonly used tools)
+* notes on LaTeX and LaTeX code (templates and commonly used packages)
 
 ## My interests
 
